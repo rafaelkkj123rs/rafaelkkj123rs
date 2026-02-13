@@ -2,7 +2,7 @@
 
 # (=^･ω･^=) StockSage (=^･ω･^=)
 
-<img src="https://github.com/StockSage/StockSage/raw/main/assets/waifu-coding.gif" alt="waifu coding" width="200" />
+<img src="https://github.com/rafaelkkj123rs/rafaelkkj123rs/raw/main/assets/waifu-coding.gif" alt="waifu coding" width="200" />
 
 ```
     /\_/\  
