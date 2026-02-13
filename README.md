@@ -33,7 +33,6 @@ class GatinhoProgramador:
     def __init__(self):
         self.nome = "StockSage"
         self.nivel = "Python Junior (estudando muito! ≧◡≦)"
-        self.local = "🇧🇷 Rio de Janeiro"
         self.interesses = [
             "🐍 Aprender Python",
             "📈 Entender trading",
@@ -211,7 +210,7 @@ while True:
 ```
 
 **💜 Feito com muito café, Python e amor por anime 🌸**  
-*Junior Dev desde 2024 • Rio de Janeiro, BR 🇧🇷 • Sempre aprendendo! (◕‿◕)*
+*Junior Dev desde 2024 • BR 🇧🇷 • Sempre aprendendo! (◕‿◕)*
 
 ---
 
