@@ -67,5 +67,3 @@ Transformar conhecimento em projetos reais e evoluir diariamente como desenvolve
 GitHub: https://github.com/rafaelkkj123rs
 
 </div>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="05ad18ed-1d65-4b84-aca0-f1c756de1b2c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
